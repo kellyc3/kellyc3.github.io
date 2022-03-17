@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Kelly and this is my PIC16B blog! 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a fourth-year student at UCLA studying Mathematics Economics. I am pursuing a Specialization in Computing and a Minor in Accounting.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kellychen@g.ucla.edu](mailto:kellychen@g.ucla.edu)
